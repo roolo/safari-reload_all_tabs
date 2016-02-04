@@ -1,1 +1,1 @@
-# safari-reload_all_tabs
+# Safari - Reload all tabs
